@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Thème 4 (session 3) - Centre de ressources"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: "theme-4-partie-1-cua.qmd"
+        text: CUA
+      - href: "theme-4-partie-2-pser.qmd"
+        text: PSE·R
+      - href: "Depot.qmd"
+        text: Clore la formation
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

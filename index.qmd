@@ -1,0 +1,83 @@
+---
+title: "Tout savoir sur le thème 4"
+toc-title: "Dans cette page"
+---
+
+Bienvenue dans le centre de ressources concernant le thème 4 de la formation FOCUS.
+
+Le thème 4 est transversal. Il traverse les 3 autres thèmes.
+
+Sa nature implique un apprentissage différent des 3 autres thèmes. Il est pensé pour faciliter le partage et le développement des pratiques pédagogiques.
+
+## Message de bienvenue de Lionel Alvarez
+
+:::{.callout-note}
+Cher·e·s participant·e·s à la formation FOCUS coordonnée par la HEP-VS,
+
+Permettez-moi ce message pour vous présenter le thème 4 et son orientation pratique et transversale.
+
+Le thème 4 invitera les participant·e·s à questionner leurs pratiques pédagogiques, soit en s'en appropriant de nouvelles, soit en précisant des pratiques actuelles.
+
+Des outils vous seront pour cela proposés via de brèves capsules vidéos : (1) la conception universelle de l'apprentissage (CUA) pour penser des environnements accueillants la diversité, et (2) un processus structuré, nommer "Planifier, surveiller, évaluer les résultats (PSE·R)", entre analyse des besoins et documentation des effets des interventions. La première soutiendra la construction d'environnements d'apprentissage pluriels, la seconde accompagnera la conception d'interventions fondées et répondants explicitement à un/des besoins. 
+
+Afin de permettre le questionnement des pratiques et, le cas échéant, l'appropriation de la CUA ou du PSE·R, nous vous recommandons la constitution de communautés de pratiques de proximité.
+
+Je vous invite d’ores et déjà à visionner cette vidéo dans laquelle je vous explique les contenus associés au thème 4 : 
+
+<iframe width="640" height="360" src="https://tube.switch.ch/embed/LaetkpyOtU" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+
+[Lire la vidéo](https://tube.switch.ch/videos/LaetkpyOtU)
+
+Pour rappel, 11 heures sont à consacrer à ce thème, selon le cadre de formation indiqué par l'Office de l'Enseignement Spécialisé.
+
+Pour toutes vos questions administratives, je vous propose d’écrire à focus@hepvs.ch. Pour des questions de contenus, je vous invite à m’écrire directement (lionel.alvarez@unifr.ch).
+
+Je vous souhaite beaucoup de plaisir et de débats entre vous dans le cadre de ce travail associé au thème 4 de la formation FOCUS.
+
+Meilleurs messages,
+
+Lionel Alvarez
+:::
+
+## Implication pour le processus de formation
+
+Le thème 4 est flexible et orienté vers votre pratique. Dans le cadre de la formation FOCUS, s'il fallait résumer ce qu'il implique pour vous, on pourrait dire, en 11 heures au total : 
+
+- s'approprier quelques capsules vidéos à son rythme
+- enrichir sa pratique avec l'un ou l'autre dispositif proposé, selon son intérêt
+- partager ses choix, idées, pratiques avec des collègues (communautés de pratiques) de manière totalement indépendante OU en solo.
+- rendre compte de son parcours de formation en répondant à un formulaire web : 
+
+    - soit en tant que groupe ou en solo
+    - soit avec une ressource à soumettre ou sans
+
+## Livrer un document ?
+
+Oui, lorsque nous avons dessiné la formation FOCUS, il nous a paru d'emblée fondamental de se rapprocher de vos pratiques. En livrant, sur une base volontaire, un document, vous vous donnez la possibilité de : 
+
+- demander un feedback professionnel à l'un·e des formateur·trices de FOCUS
+
+- créer un recueil de ressources que chaque participant·e pourra consulter.
+
+Livrer un document est à voir comme une occasion de partager et d'enrichir. Le document est extrait de vos pratiques.
+
+## Quel type de document peut-on donc livrer en groupe ?
+
+Vous (variante solo) ou votre groupe (ou "communauté de pratiques") peut choisir parmi trois options :
+
+- soit le groupe s'intéresse à la partie "CUA" et se base sur le canevas proposé pour préparer sa ressource.
+
+- soit le groupe s'intéresse à la partie "PSE·R" et se base sur le canevas à venir pour préparer sa ressource.
+
+- le comité scientifique souhaite offrir une troisième voie : une autre approche de dépôt est envisageable selon vos réalités professionnelles.
+
+## Que dois-je faire pour valider ma formation FOCUS ?
+
+Vous êtes des professionnel·les en cours d'emploi et nous avons créé la formation en gardant cela en tête.
+
+Pour certifier votre processus de formation, il vous faut : 
+
+- participer aux séances des thèmes 1, 2, 3
+- pour le thème 4 : rendre compte de son activité via le formulaire web ad hoc.
+
+Le calendrier de la formation fait foi.
